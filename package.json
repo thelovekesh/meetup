@@ -1,0 +1,12 @@
+{
+  "name": "meetup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thelovekesh/meetup.git",
+  "author": "thelovekesh <lovekesh.kumar@rtcamp.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true
+}
